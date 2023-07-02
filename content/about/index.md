@@ -7,7 +7,5 @@ menu:
   main:
     weight: 1
 ---
----
-
 
 This is the about page. I'm exploring adding new sections to the site's navigation tree.
